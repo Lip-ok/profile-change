@@ -7,8 +7,3 @@ export const useStyles = makeStyles((theme) => ({
     marginLeft: 11,
   },
 }))
-
-export default function SimpleMediaQuery() {
-  const position = useMediaQuery('(marginRight: 10px)');
-  return position
-}

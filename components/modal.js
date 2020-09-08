@@ -34,7 +34,6 @@ export default function SimpleDialog({onClose, open, saveData, setName, setEmail
                 </IconButton>
             </DialogTitle>
             <DialogContent className={bodyStyles.main__modal_container}>
-            {/*<DialogContent className={classes.contentContainer}>*/}
                 <Typography>
                     Сохранить изменения?
                 </Typography>

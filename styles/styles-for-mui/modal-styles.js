@@ -32,13 +32,6 @@ export const useStyles = makeStyles((theme) => ({
   dialogContainer: {
     maxWidth: 800,
   },
-  // contentContainer:{
-  //   display: 'flex',
-  //   alignItems: 'center',
-  //   flexDirection: 'column',
-  //   minWidth: 600,
-  //   padding: 0,
-  // },
   closeButton: {
     position: 'absolute',
     right: theme.spacing(1),
