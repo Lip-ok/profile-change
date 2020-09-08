@@ -4,7 +4,7 @@ import Header from '../components/header'
 import Body from '../components/body'
 import Head from 'next/head'
 import MainLayout from '../components/main-layout'
-import {api} from "./api/api"
+import {api} from "../components/api"
 
 
 function App() {
